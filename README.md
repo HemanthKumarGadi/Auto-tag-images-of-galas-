@@ -6,4 +6,8 @@ So, this firm has hired you to help them aggregate and classify all images.
 These images are published by attendees and the paparazzi on various social media channels and other sources. 
 You are required to build an image auto-tagging model to classify these images into separate categories.
 
+Solution:
+
+Here I'm using Fastai Pretrained Model for Image Classification & also Im trying Simple CNN model For uderstanding for CNN functons.
+
 
